@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.env
+.env
+.venv/
+venv/
+ENV/
+env/
+env.bak/
+venv.bak/
+
+# Streamlit data files (这些是你的个人数据，不应该上传到公共仓库)
+reading_list.json
+books_magazines_list.json
+my_blog_posts.json
+weekly_playlists.json
+weekly_exercise_logs.json
+
+# IDE / Editor specific
+.vscode/
+.idea/
+*.swp
+*.swo
